@@ -1,6 +1,6 @@
 ### Introduction
 
-When we last left off, we successfully used our __createStore()__ method, and
+When we last left off, we successfully use our __createStore()__ method, and
 were able have our application re-render through the rather confusing
 `connect()` method and __Provider__ component. Whenever something in
 JavaScript is confusing, it is generally helpful to place some debuggers in the
